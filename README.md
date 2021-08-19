@@ -31,4 +31,4 @@ to allow selecting Nodes of derived (child) clases
 
 # Known issues:
 - when enabling the plugin (and in some other cases), you should change node selection to make it work.
-- works only for GDScript now
+- currently works only for GDScript
